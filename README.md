@@ -49,20 +49,20 @@ Through this SQL analysis, we aimed to answer:
 
 ---
 
-##📬 Author Info
+📬 Author Info
 👩‍💻 Sonal Chopde
 📍 Bhopal | 🎓 B.Tech CSE | 💡 Data Analyst
 🧠 Passionate about data, tech, and storytelling through numbers.
 
 ---
 
-##🌟 Like It? Star It!
+🌟 Like It? Star It!
 If this project inspired you or helped you learn something new, give it a ⭐!
 Feedback and suggestions are always welcome.
 
 ---
 
-##📌 Future Ideas
+📌 Future Ideas
 📊 Integrate with Power BI or Tableau for dashboards
 
 🧾 Join with user or delivery data for deeper insights
