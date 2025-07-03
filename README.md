@@ -63,6 +63,7 @@ Feedback and suggestions are always welcome.
 ---
 
 📌 Future Ideas
+
 📊 Integrate with Power BI or Tableau for dashboards
 
 🧾 Join with user or delivery data for deeper insights
